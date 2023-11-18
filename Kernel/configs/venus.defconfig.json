@@ -39,7 +39,7 @@
     },
     "AnyKernel3": {
       "use": true,
-      "release": false
+      "release": ture
     },
     "enableKernelSU": true,
     "enableLXC": false
